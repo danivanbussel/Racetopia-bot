@@ -1,0 +1,19 @@
+{
+  "name": "shop-bot",
+  "version": "1.0.0",
+  "description": "Wil jij je eigen bot voor je eigen shop? stel hem dan hier samen!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "Dani van Bussel",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  },
+  "devDependencies": {
+    "common-tags": "^1.8.0",
+    "nodemon": "^2.0.2"
+  }
+}
